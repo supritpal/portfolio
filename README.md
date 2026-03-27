@@ -1,16 +1,58 @@
-# React + Vite
+# 🌌 Suprit Pal — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> A modern, animated, and fully responsive portfolio built with React, showcasing projects, skills, and contact integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Live Demo
+🔗 https://your-vercel-link.vercel.app
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 About the Project
 
-## Expanding the ESLint configuration
+This is a high-performance portfolio website designed to stand out with:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Smooth animations
+- Modern UI/UX
+- Fully responsive design
+- Interactive sections
+- Real-time contact form using EmailJS
+
+Built to showcase my work as a **Full Stack Web Developer**.
+
+---
+
+## ⚡ Features
+
+- 🎯 Clean and modern hero section
+- 🎬 Framer Motion animations
+- 📱 Fully responsive (mobile-first optimized)
+- 📂 Projects showcase with live demo links
+- 📧 Contact form with EmailJS integration
+- 🌌 Parallax scrolling effects
+- 🧩 Component-based architecture
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, CSS/SCSS
+- **Animations:** Framer Motion
+- **Email Service:** EmailJS
+- **Build Tool:** Vite
+- **Deployment:** Vercel
+
+---
+
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+![Desktop](./screenshots/desktop.png)
+
+### 📱 Mobile View
+![Mobile](./screenshots/mobile.png)
+
+---
+
+## 📁 Folder Structure

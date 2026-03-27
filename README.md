@@ -5,7 +5,7 @@
 ---
 
 ## ✨ Live Demo
-🔗 https://your-vercel-link.vercel.app
+🔗 https://suprit-dev.netlify.app/
 
 ---
 
@@ -45,14 +45,3 @@ Built to showcase my work as a **Full Stack Web Developer**.
 
 ---
 
-## 📸 Screenshots
-
-### 🖥️ Desktop View
-![Desktop](./screenshots/desktop.png)
-
-### 📱 Mobile View
-![Mobile](./screenshots/mobile.png)
-
----
-
-## 📁 Folder Structure

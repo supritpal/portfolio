@@ -1,5 +1,5 @@
 //import Test from "./Test";
-import "./app.scss";
+import "./App.scss";
 import Contact from "./components/Contact";
 import Cursor from "./components/Cursor";
 //import Cursor from "./components/cursor/Cursor";

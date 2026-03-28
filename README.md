@@ -5,7 +5,7 @@
 ---
 
 ## ✨ Live Demo
-🔗 https://suprit-dev.netlify.app/
+🔗 https://suprit-pal-dev.netlify.app/
 
 ---
 
